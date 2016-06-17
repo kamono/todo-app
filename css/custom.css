@@ -1,0 +1,28 @@
+/*
+author: nkamono
+created: 9/15/2014
+*/
+
+.top {
+    margin-top: 1em;
+}
+.jumbotron {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/* row dispalys 10px in height, this removes padding from row and
+makes it completely hidden. */
+.hidden-row {
+    padding: 0 !important;
+}
+.accordian-body {
+    padding: 5px 10px;
+}
+.scrolling {
+    position: relative;
+    height: 380px;
+    overflow: auto;
+}
+.red {
+    color: red;
+}
